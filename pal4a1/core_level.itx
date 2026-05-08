@@ -1,0 +1,17 @@
+IGOR
+WAVES/D corelevel
+BEGIN
+100
+110
+120
+130
+END
+X SetScale/P x 10,0.02,"", corelevel
+X Note corelevel, "Photon Energy = 80.5 eV"
+X Note corelevel, "X position = 1.8701"
+X Note corelevel, "Y position = 5.9799"
+X Note corelevel, "Z position = 18.9200"
+X Note corelevel, "Theta = 1.00"
+X Note corelevel, "Phi = -3.00"
+X Note corelevel, "Pass Energy = 10 eV"
+X Note corelevel, "I0 = 25.913 nA ... 25.763 nA"

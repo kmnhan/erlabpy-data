@@ -1,0 +1,16 @@
+IGOR
+WAVES/D/N=(4,3) finecut
+BEGIN
+1 2 3
+4 5 6
+7 8 9
+10 11 12
+END
+X SetScale/P x 62,0.005,"", finecut
+X SetScale/P y -16.6,0.0465714,"", finecut
+X Note finecut, "Photon Energy = 80.5 eV"
+X Note finecut, "X position = 1.8701"
+X Note finecut, "Y position = 5.9799"
+X Note finecut, "Z position = 18.9200"
+X Note finecut, "Theta = 1.00"
+X Note finecut, "Pass Energy = 50 eV"

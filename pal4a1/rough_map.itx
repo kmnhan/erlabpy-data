@@ -1,0 +1,18 @@
+IGOR
+WAVES/D/N=(2,3,2) roughmap
+BEGIN
+1 2 3
+4 5 6
+7 8 9
+10 11 12
+END
+X SetScale/P x 63,0.1,"", roughmap
+X SetScale/P y -13.8,0.0465714,"", roughmap
+X SetScale/P z -19,1,"", roughmap
+X Note roughmap, "Photon Energy = 80.5"
+X Note roughmap, "X position = 1.8701"
+X Note roughmap, "Y position = 5.9799"
+X Note roughmap, "Z position = 18.9400"
+X Note roughmap, "Phi = 0.00"
+X Note roughmap, "Theta = -19 ... 12"
+X Note roughmap, "Pass Energy = 50 eV"

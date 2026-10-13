@@ -12,9 +12,9 @@ Signal names=Monitor
 Signal unit=Kinetic Energy [eV]
 Signal steps=3
 Signal scale [0]=1 1.25 1.5
-High Energy=1.6
 
 [Info 1]
+High Energy=1.6
 Lens Mode=DA30
 Pass Energy=10
 Excitation Energy=6
